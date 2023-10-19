@@ -7,10 +7,10 @@
 Kebersihan adalah keaadan bebas dari kotoran seperti sampah, debu dll. Kebersihan merupakan salah satu kunci utama dalam kesehatan. Sampah merupakan salah satu permasalahan besar yang dihadapi Indonesia. Terdapat banyak masyarakat yang masih membuang sampah sembarangan.
 Tong sampah otomatis hadir dalam bentuk inovasi baru yang diharapkan dapat meningkatkan kesadaran masyarakat Indonesia terhadap sampah.
 Alat ini berjalan dengan memanfaatkan teknologi modern yaitu dengan membuat pembuka dan penutup kotak sampah otomatis dengan pengendalian otomatis dengan sensor jarak (ultrasonic), pengontrol untuk mengatur motor servo yang berfungsi untuk membuka dan menutup kotak sampah.
-Sehingga alat  yang dirancang dapat bekerja dengan baik dalam menangani proses sistem membuka dan menutup tong sampah secara otomatis dengan jarak respon jika seorang melewati kotak sampah <= 30cm maka tutup kotak sampah akan terbuka otomatis, dan delay selama 5 detik. Dapat mengirimkan notifikasi pesan telegram dengan baik saat buzzer memberikan alarm jika kotak sampah sudah penuh.
+Sehingga alat  yang dirancang dapat bekerja dengan baik dalam menangani proses sistem membuka dan menutup tong sampah secara otomatis dengan jarak respon jika seorang melewati kotak sampah <= 30cm maka tutup kotak sampah akan terbuka otomatis, dan delay selama 5 detik. Dapat mengirimkan notifikasi pesan telegram dengan baik saat buzzer memberikan alarm jika kotak sampah sudah penuh. Tong sampah ini juga berfungsi untuk menahan tumpukan sampah untuk tidak bertaburan.
 
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://ejournal.itn.ac.id/index.php/jati/article/view/3315)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/raihanpratama17/tong-sampah-otomatis/blame/main/about.html)
 
 ## Features Tong Sampah Otomatis
 
