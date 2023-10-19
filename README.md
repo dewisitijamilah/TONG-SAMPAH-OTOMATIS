@@ -1,7 +1,7 @@
 # TONG SAMPAH OTOMATIS
 ## Tong Sampah Otomatis adalah alat yang dirancang untuk bekerja sebagai pembuka dan penutup tong sampah dengan menggunakan sensor ultrasonic
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://ejournal.itn.ac.id/index.php/jati/article/view/3315)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/raihanpratama17/tong-sampah-otomatis/blob/main/about.html)
 
 ## ABSTRACT
 Kebersihan adalah keaadan bebas dari kotoran seperti sampah, debu dll. Kebersihan merupakan salah satu kunci utama dalam kesehatan. Sampah merupakan salah satu permasalahan besar yang dihadapi Indonesia. Terdapat banyak masyarakat yang masih membuang sampah sembarangan.
